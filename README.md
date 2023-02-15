@@ -25,11 +25,5 @@ Desejável (Será considerado um diferencial)
 Criar cobertura de testes unitários para as principais funcionalidades, não precisa ser nada muito complexo ou extenso, basta ser objetivo e assertivo.
 Configurar o Swagger para termos acesso a documentação da API.
 Consultar a Taxa de Juros Selic acumulada dos últimos 30 dias utilizando um RestClient através do endereço "https://dadosabertos.bcb.gov.br/dataset/11-taxa-de-juros---selic", poderá utilizar as anotações @FeignClient ou @RestTemplate;
-O que será avaliado
-Padrões de classe, atributos e métodos
-Utilização dos recursos disponíveis no spring-boot
-Conhecimento da linguagem, orientação a objetos
-Utilização correta de git
-Testes unitários
-System.out.println("Boa sorte!");
+
 
